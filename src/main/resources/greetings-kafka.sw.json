@@ -6,6 +6,7 @@
   "description": "JSON based greeting workflow",
   "start": "HandleNewGreet",
   "functions": [
+    
     {
       "name": "printMessage",
       "metadata": {
